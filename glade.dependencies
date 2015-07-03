@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "GladeRom/android_device_lge_g2-common",
+    "target_path": "device/lge/g2-common",
+    "revision":    "gr-3.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "GladeRom/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "gr-3.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "GladeRom/android_kernel_lge_msm8974",
+    "target_path": "kernel/lge/msm8974",
+    "revision":    "gr-3.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "GladeRom/G2_Vendor",
+    "target_path": "vendor/lge",
+    "revision":    "gr-3.1"
+  }
+]
